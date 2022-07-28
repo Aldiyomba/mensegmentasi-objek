@@ -1,0 +1,2 @@
+# mensegmentasi-objek
+citra
